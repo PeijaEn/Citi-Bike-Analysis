@@ -1,6 +1,6 @@
 # bikesharing
 
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[link to dashboard](https://public.tableau.com/shared/6MGRBGMHD?:display_count=n&:origin=viz_share_link "link to dashboard")
 
 ### Overview
 
