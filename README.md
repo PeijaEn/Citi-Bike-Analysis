@@ -1,4 +1,4 @@
-# bikesharing
+# An Analysis of Citi Bike Data in Des Moines, NY
 
 ### Overview
 Using the provided Citi Bike data, was tasked to analyze and come up with a Tableau Story, specific to New York - Des Moines. To do such, I had to determine what data from the public Citi Bike data was useful and relevant to Des Moines, NY. I used the August, 2019 data. Utilizing this data, I then decided to use Tableau to visualize the data from the CSV Citi Bike data. The data was to be cleaned in Tableau Public to be used in visualization.
