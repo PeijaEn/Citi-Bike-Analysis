@@ -9,8 +9,8 @@ The Citi Bike data can be found [here](https://s3.amazonaws.com/tripdata/index.h
 - Tableau Public
 - CSV's
 - Python
- - Pandas
- - Jupyter Notebook
+  - Pandas
+  - Jupyter Notebook
 
 ### Results
 ![Peak Times](https://github.com/PeijaEn/bikesharing/blob/main/bikesharing/resources/images/mod%2014,%201.png?raw=true)
