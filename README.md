@@ -25,8 +25,8 @@ Based off of the gender breakdown; males use the rental bikes the most, then fem
 On average, majority of people don't use the rental service for longer than 20-30 minutes.
  <br />
  
-The Final Tableau Story is linked below. It contains more visualizations as well as footnotes explaining the visualizations.
-[link to dashboard](https://public.tableau.com/shared/6MGRBGMHD?:display_count=n&:origin=viz_share_link "link to dashboard")
+The Final Tableau Story is linked below. It contains more visualizations as well as footnotes explaining the visualizations. <br />
+[Click here](https://public.tableau.com/shared/6MGRBGMHD?:display_count=n&:origin=viz_share_link "link to dashboard") to view
 
 ### Conclusion
 In conclusion, males tend to rent bikes the most. The most popular times are 8 am or 4 pm - 7 pm during the weekday, More open on the weekend. Also, the trip duration tanks after 20 minutes so it would be helpful to invest more into getting people to rent more of the bikes for longer. I would also ask for more marketing towards females and other genders.
