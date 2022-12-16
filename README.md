@@ -13,15 +13,17 @@ The Citi Bike data can be found [here](https://s3.amazonaws.com/tripdata/index.h
   - Jupyter Notebook
 
 ### Results
+After conducting my data cleaning and picking the data that pretained to Des Moines, NY. The data was then analyzed and some visualizations were created via Tableau Public. See below for more detail:
+
 ![Peak Times](https://github.com/PeijaEn/bikesharing/blob/main/bikesharing/resources/images/mod%2014,%201.png?raw=true)
 Based off of the image, the peak times are 8 am, before work, and 4pm - 7pm, after work
-
+<br />
 ![PeakTimes Gender](https://github.com/PeijaEn/bikesharing/blob/main/bikesharing/resources/images/mod%2014,%202.png?raw=true)
 Based off of the gender breakdown; males use the rental bikes the most, then females, and finally all other genders.
-
+<br />
 ![Avg Time Used](https://github.com/PeijaEn/bikesharing/blob/main/bikesharing/resources/images/mod%2014,%203.png?raw=true)
 On average, majority of people don't use the rental service for longer than 20-30 minutes.
-
+<br />
 The Final Dashboard looks as such:
 [link to dashboard](https://public.tableau.com/shared/6MGRBGMHD?:display_count=n&:origin=viz_share_link "link to dashboard")
 
