@@ -24,7 +24,8 @@ Based off of the gender breakdown; males use the rental bikes the most, then fem
 ![Avg Time Used](https://github.com/PeijaEn/bikesharing/blob/main/bikesharing/resources/images/mod%2014,%203.png?raw=true)
 On average, majority of people don't use the rental service for longer than 20-30 minutes.
  <br />
-The Final Dashboard looks as such:
+ 
+The Final Tableau Story is linked below. It contains more visualizations as well as footnotes explaining the visualizations.
 [link to dashboard](https://public.tableau.com/shared/6MGRBGMHD?:display_count=n&:origin=viz_share_link "link to dashboard")
 
 ### Conclusion
