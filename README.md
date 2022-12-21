@@ -1,7 +1,7 @@
-# Analysis of Citi Bike data in Des Moines, NY
+# Analysis of Citi Bike data
 
 ### Overview
-Using the provided Citi Bike data, was tasked to analyze and come up with a Tableau Story, specific to New York - Des Moines. To do such, I had to determine what data from the public Citi Bike data was useful and relevant to Des Moines, NY. I used the August, 2019 data. Utilizing this data, I then decided to use Tableau to visualize the data from the CSV Citi Bike data. The data was to be cleaned in Tableau Public to be used in visualization.
+Using the provided Citi Bike data, was tasked to analyze and come up with a Tableau Story, specific to New York - Des Moines. To do such, I had to determine what data from the public Citi Bike data was useful and relevant to Des Moines. I used the August, 2019 data. Utilizing this data, I then decided to use Tableau to visualize the data from the CSV Citi Bike data. The data was to be cleaned in Tableau Public to be used in visualization.
 
 The Citi Bike data can be found [here](https://s3.amazonaws.com/tripdata/index.html)
 
@@ -13,7 +13,7 @@ The Citi Bike data can be found [here](https://s3.amazonaws.com/tripdata/index.h
   - Jupyter Notebook
 
 ### Results
-After conducting my data cleaning and picking the data that pretained to Des Moines, NY. The data was then analyzed and some visualizations were created via Tableau Public. See below for more detail:
+After conducting my data cleaning and picking the data that pretained to Des Moines. The data was then analyzed and some visualizations were created via Tableau Public. See below for more detail:
 
 ![Peak Times](https://github.com/PeijaEn/bikesharing/blob/main/bikesharing/resources/images/mod%2014,%201.png?raw=true)
 Based off of the image, the peak times are 8 am, before work, and 4pm - 7pm, after work
